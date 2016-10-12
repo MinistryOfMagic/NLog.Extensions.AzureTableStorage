@@ -1,6 +1,7 @@
 ﻿using Microsoft.Azure;
 using Microsoft.WindowsAzure.Storage;
 using System.Configuration;
+using Microsoft.WindowsAzure;
 
 namespace NLog.Extensions.AzureTableStorage
 {

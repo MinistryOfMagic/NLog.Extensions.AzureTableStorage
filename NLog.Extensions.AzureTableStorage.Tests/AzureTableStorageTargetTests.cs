@@ -4,6 +4,7 @@ using Microsoft.WindowsAzure.Storage.Table;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.WindowsAzure;
 using Xunit;
 
 namespace NLog.Extensions.AzureTableStorage.Tests
